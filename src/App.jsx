@@ -133,10 +133,10 @@ const App = () => {
             {/* Question */}
             <div className="text-center mb-6 sm:mb-8 md:mb-12 px-4">
               <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold text-white mb-4 animate-pulse drop-shadow-lg">
-                تبي تروح معي البحر؟ 🌊
+               توخذيني على البحرررررر
               </h1>
               <p className="text-base sm:text-lg md:text-xl lg:text-2xl text-white/90 animate-fadeIn drop-shadow-md">
-                كركر! يلا نسبح ونلعب! 🏖️
+              اركب موجه هههخ 🏖️
               </p>
             </div>
 
@@ -152,7 +152,7 @@ const App = () => {
                            shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300
                            border-4 border-white/20 z-20 w-full touch-manipulation min-h-[60px]"
                 >
-                  نعم! 😍
+                  yeb
                 </button>
 
                 {/* NO Button (Moving) */}
@@ -190,7 +190,7 @@ const App = () => {
                     transition: "all 0.3s ease-out",
                   }}
                 >
-                  لا 😤
+                  no
                 </button>
               </div>
             </div>
@@ -202,10 +202,10 @@ const App = () => {
               🎉
             </div>
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-6xl font-bold text-white mb-4 sm:mb-6 drop-shadow-lg">
-              يااااه! 🥳
+             احلى كركر
             </h1>
             <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-white mb-6 sm:mb-8 drop-shadow-md">
-              روحي نخطط انستا كركر! 📱✨
+             يا هلا يا هلا
             </p>
             <div className="text-4xl sm:text-6xl md:text-8xl animate-spinSlow">
               🌊🏖️🌊
